@@ -3,6 +3,16 @@
 	"EngineAssociation": "4.26",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "comp313_mddn321_A2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "Paper2D",
