@@ -16,15 +16,17 @@ For Windows you can .exe file to run the game: https://drive.google.com/file/d/1
   
 ## Instructions on how to play the game
   
-Use wasd or arrow keys to move.
+Use WASD or arrow keys to move.
   
-Use space to jump.
+Use Space to jump.
   
-Use s or arrow down or c to crouch .
+Use S or arrow down or C to crouch
   
-Use  s or arrow down combine with ad or arrow left right to move while crouching( you can't jump while crouching).
+Use S or arrow down combine with A & D or arrow left right to move while crouching (you can't jump while crouching)
   
-Use e to pickup item, use exit gate, diffuse bomb
+Use E for actions (e.g. pickup item, use exit gate, diffuse bomb)
+
+Use R to restart the current level
   
 To win the game you collect the key and open the door to the next level. Please aware that there are dangers around. 
   
