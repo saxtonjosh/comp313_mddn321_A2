@@ -44,3 +44,6 @@ https://postimg.cc/gallery/06N2ww2
 https://postimg.cc/gallery/szS9Ccy
 
 https://postimg.cc/gallery/8LFBDHH
+
+## Contributions of each person
+https://docs.google.com/document/d/1LyjAXOHQ8DG4g3AeQmlNxC9oisjs0lX3QzCSXRfWj6U/edit
