@@ -35,5 +35,8 @@ To open a level, player go to menu and open it. Certain level can only be unlock
 so we lock it. There are 5 level in chapter 1 from the tutorial to the complex one.
   
 ## Assets used (designed by design students)
+https://drive.google.com/drive/folders/1qMgm9BtXhAv1Wa9s9FhNWL5Prr0M3zEU
+https://drive.google.com/drive/folders/1eJy827Nsd5435YYkaDERwn6gsetu7grb
+https://postimg.cc/gallery/06N2ww2
+https://postimg.cc/gallery/szS9Ccy
 https://postimg.cc/gallery/8LFBDHH
-
