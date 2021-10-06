@@ -34,3 +34,6 @@ Death is not permanent and the player can revive at the start. The player can al
 To open a level, player go to menu and open it. Certain level can only be unlocked when player pass the previous level. Currently chapter 2 and higher is not available
 so we lock it. There are 5 level in chapter 1 from the tutorial to the complex one.
   
+## Assets used (designed by design students)
+https://postimg.cc/gallery/8LFBDHH
+
