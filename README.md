@@ -5,7 +5,7 @@ https://drive.google.com/file/d/1U3yAS_mfyVY6kNIf2Zf3Kpb7eu8AOwgm/view?usp=shari
 
 ## Gameplay video
 
-[insert]
+https://www.youtube.com/watch?v=Be-jB-mJ6gE
 
 ## Code explanation video
 https://www.youtube.com/watch?v=og40NsI728w
