@@ -1,14 +1,18 @@
-# comp313_mddn321_A2
+# COMP313/MDDN321 A2
 
-Developed with Unreal Engine 4
+## Game packaged for Windows  
+https://drive.google.com/file/d/1U3yAS_mfyVY6kNIf2Zf3Kpb7eu8AOwgm/view?usp=sharing
 
-# installation and setup instructions:
-If you are on Mac, you need to run throught unreal engine ver 4.26.2.
-For windows you can .exe file to run the game 
+## Gameplay video
 
-# Link drive to the game:
-  
- https://drive.google.com/file/d/1U3yAS_mfyVY6kNIf2Zf3Kpb7eu8AOwgm/view?usp=sharing
+[insert]
+
+## Code explanation video
+https://www.youtube.com/watch?v=og40NsI728w
+
+## Installation and setup instructions:
+If you are on Mac, clone this repository and run in Unreal Engine 4.26.2
+For Windows you can .exe file to run the game: https://drive.google.com/file/d/1U3yAS_mfyVY6kNIf2Zf3Kpb7eu8AOwgm/view?usp=sharing
   
 # instructions on how to play the game.
   
@@ -20,7 +24,7 @@ Use s or arrow down or c to crouch .
   
 Use  s or arrow down combine with ad or arrow left right to move while crouching( you can't jump while crouching).
   
-Use e to interact/pickup/push object .
+Use e to pickup item, use exit gate, diffuse bomb
   
 To win the game you collect the key and open the door to the next level. Please aware that there are dangers around. 
   
