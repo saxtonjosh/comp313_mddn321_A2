@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=og40NsI728w
 If you are on Mac, clone this repository and run in Unreal Engine 4.26.2
 For Windows you can .exe file to run the game: https://drive.google.com/file/d/1U3yAS_mfyVY6kNIf2Zf3Kpb7eu8AOwgm/view?usp=sharing
   
-# instructions on how to play the game.
+## Instructions on how to play the game
   
 Use wasd or arrow keys to move.
   
