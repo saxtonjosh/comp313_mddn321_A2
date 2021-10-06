@@ -12,6 +12,7 @@ https://www.youtube.com/watch?v=og40NsI728w
 
 ## Installation and setup instructions
 If you are on Mac, clone this repository and run in Unreal Engine 4.26.2
+
 For Windows you can .exe file to run the game: https://drive.google.com/file/d/1U3yAS_mfyVY6kNIf2Zf3Kpb7eu8AOwgm/view?usp=sharing
   
 ## Instructions on how to play the game
